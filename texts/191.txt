@@ -1,0 +1,3 @@
+                                       Roy keeps a customer file for each new customer! 
+--- RECORDSEPARATOR ---
+                            View the Customer File by clicking on the 

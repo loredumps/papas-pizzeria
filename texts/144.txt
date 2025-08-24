@@ -1,0 +1,1 @@
+TIP: Pizzas change color when the timer hits each mark on the dial.

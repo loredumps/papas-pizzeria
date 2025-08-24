@@ -1,0 +1,3 @@
+Roy will copy the order onto an order ticket. Once the order is taken, 
+--- RECORDSEPARATOR ---
+the customer will wait in the “Pick Up” line in the back.

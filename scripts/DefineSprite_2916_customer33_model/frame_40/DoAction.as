@@ -1,0 +1,10 @@
+if(this.myclass.isWalking)
+{
+   gotoAndStop("walk");
+   play();
+}
+else
+{
+   gotoAndStop("stand");
+   play();
+}

@@ -1,0 +1,3 @@
+If a customer waits too long before you take the order, you lose points!
+--- RECORDSEPARATOR ---
+If you take a long time preparing a customer’s order, you lose points!

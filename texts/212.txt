@@ -1,0 +1,3 @@
+Your progress is automatically saved at the end of the work day
+--- RECORDSEPARATOR ---
+when you click the "CONTINUE" or "QUIT" buttons.

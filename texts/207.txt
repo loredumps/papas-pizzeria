@@ -1,0 +1,3 @@
+Every time you do a good (or great) job on an order for a customer,
+--- RECORDSEPARATOR ---
+that customer gets one star on his or her Star Gauge.

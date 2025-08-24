@@ -1,0 +1,1 @@
+You can drop a ticket onto another ticket in the side panel to swap them!

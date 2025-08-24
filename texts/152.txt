@@ -1,0 +1,3 @@
+Try to cut as close to the picture on the ticket as possible.
+--- RECORDSEPARATOR ---
+If it shows a vertical line, don’t cut at an angle.

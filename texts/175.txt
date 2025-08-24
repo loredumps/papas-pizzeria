@@ -1,0 +1,3 @@
+If you do a great job, you’ll get a large tip.  If you do a poor job, you’ll get a small 
+--- RECORDSEPARATOR ---
+tip – or none!
